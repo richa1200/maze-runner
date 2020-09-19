@@ -1,14 +1,12 @@
 {
-  "name": "find-your-hat",
+  "name": "maze-runner",
   "version": "1.0.0",
-  "description": "A terminal maze-solving game.",
-  "main": "main.js",
-  "author": "Codecademy",
-  "license": "ISC",
+  "description": "A terminal maze game.",
+  "main": "game.js",
   "dependencies": {
     "prompt-sync": "^4.1.7"
   },
   "scripts": {
-    "start": "node main.js"
+    "start": "node game.js"
   }
 }
